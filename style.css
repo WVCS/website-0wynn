@@ -1,3 +1,19 @@
-body {
-
+h2{
+  color:forestgreen
 }
+body{
+ 
+  background: lightblue;
+  letter-spacing: 5px;
+}
+body{
+  font-family: bree-serif;
+}
+img:hover{
+
+  border: 10px solid forestgreen;
+  padding: 5px;
+  width:300px;
+ 
+}
+
