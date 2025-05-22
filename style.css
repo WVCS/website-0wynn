@@ -16,4 +16,24 @@ img:hover{
   width:300px;
  
 }
+nav{
+  list-style-type: none;
+  width: 100%;
+  background-color: lightgreen;
+  position: fixed;
+  }
+li a {
+  float:left;
+  color: blue;
+  text-decoration: none;
+  display: block;
+  padding:20px 30px;
+ 
+  
+}
 
+li a:hover {
+ background-color:lightpink;
+  color:black;
+ 
+}
