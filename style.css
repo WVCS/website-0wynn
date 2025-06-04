@@ -1,3 +1,6 @@
+
+
+
 h2{
   color:#D3D5D7;
   font-size: 50px;
@@ -9,8 +12,9 @@ body{
   padding-top: 5px;
 }
 
-
-
+p1 p2 p3 p4 {
+  color:#D3D5D7;
+}
 nav{
 background-color: #D3D5D7;
   position:fixed;
